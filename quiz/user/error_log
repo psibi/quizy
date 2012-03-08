@@ -1,0 +1,3 @@
+[18-Feb-2012 14:28:02] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'theta12i_sibi'@'localhost' (using password: YES) in /home/theta12i/public_html/quiz/user/lib/userauth.class.php on line 49
+[18-Feb-2012 14:35:44] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'theta12i_sibi'@'localhost' (using password: YES) in /home/theta12i/public_html/quiz/user/lib/userauth.class.php on line 49
+[18-Feb-2012 14:37:41] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'theta12i_sibi'@'localhost' (using password: YES) in /home/theta12i/public_html/quiz/user/lib/userauth.class.php on line 49
