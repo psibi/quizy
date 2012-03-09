@@ -14,3 +14,5 @@ To do
 ------
 
 1) Admin interface for adding questions and answers. Currently it has to be added manually in the database. Also the answer is a function of md5().
+
+Note: The license of the authentication framework claims that it should not be distributed without author's(Srinath) permission. His persmission for using that as an open-source library has been granted by him.
