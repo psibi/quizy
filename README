@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Quizy is a quiz framework written on top of the authentication framework - phpUserAuth (http://iambot.net/projects/phpuserauth/). Writing a mini quiz framework on top of the authentication framework itself makes it very secure.
+=======
+Quizy is a quiz framework written on top of the authentication framework - phpUserAuth (http://iambot.net/projects/phpuserauth/). Writing a mini quiz framework on top of the
+authentication framework itself makes it very secure.
+>>>>>>> 05abfd9c2c37ee0e37f797e99c373f71c17256e8
 
 Author: Sibi
 E-mail: sibi@psibi.in
@@ -7,12 +12,17 @@ License: GNU GPLv3
 Installation
 -------------
 
+<<<<<<< HEAD
 1) The module consists of two parts - Authentication framework and the quiz part. Initially install the authentication framework. For instructions regarding it, go to the location ./quiz/user/readme.
 2) For installing the quiz module, execute two sql script named results.sql and questions.sql under the directory script. Make sure that the database under which the sql should be executed should be the same as that of which was followed on step 1.
+>>>>>>> 05abfd9c2c37ee0e37f797e99c373f71c17256e8
 
 To do
 ------
 
 1) Admin interface for adding questions and answers. Currently it has to be added manually in the database. Also the answer is a function of md5().
 
+<<<<<<< HEAD
 Note: The license of the authentication framework claims that it should not be distributed without author's(Srinath) permission. His persmission for using that as an open-source library has been granted by him.
+=======
+>>>>>>> 05abfd9c2c37ee0e37f797e99c373f71c17256e8
